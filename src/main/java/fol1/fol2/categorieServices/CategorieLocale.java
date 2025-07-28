@@ -6,6 +6,8 @@ import javax.ejb.Local;
 
 import fol1.fol2.entities.Categorie;
 
+//deuxieme comment 
+
 //ajout d un comments  
 
 @Local
