@@ -11,6 +11,8 @@ import fol1.fol2.entities.Categorie;
 
 //ajout d un comments  
 
+//5 eme
+
 @Local
 public interface CategorieLocale {
     Categorie addCategorie(Categorie categorie);
