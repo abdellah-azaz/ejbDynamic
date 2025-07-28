@@ -7,6 +7,7 @@ import javax.ejb.Local;
 import fol1.fol2.entities.Categorie;
 
 //ajout d un comments  
+//4 eme
 
 @Local
 public interface CategorieLocale {
