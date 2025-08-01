@@ -16,6 +16,7 @@ import javax.ws.rs.core.Response;
 import fol1.fol2.NotificationServices.NotificationLocale;
 import fol1.fol2.entities.Notification;
 import fol1.fol2.entities.Reservation;
+//1 ere commentaire
 
 @Path("/notifications")
 @Produces(MediaType.APPLICATION_JSON)
